@@ -1,2 +1,2 @@
 # .emacs
-My emacs config file
+My emacs config file.
